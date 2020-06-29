@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>el-icon-plus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="基础数据-用户管理-新增用户" transform="translate(-461.000000, -779.000000)" fill="#20A0FF">
+            <g id="Group-7" transform="translate(240.000000, 289.000000)">
+                <path d="M227,496 L227,491.006845 C227,490.45078 227.443865,490 228,490 C228.552285,490 229,490.449949 229,491.006845 L229,496 L233.993155,496 C234.54922,496 235,496.443865 235,497 C235,497.552285 234.550051,498 233.993155,498 L229,498 L229,502.993155 C229,503.54922 228.556135,504 228,504 C227.447715,504 227,503.550051 227,502.993155 L227,498 L222.006845,498 C221.45078,498 221,497.556135 221,497 C221,496.447715 221.449949,496 222.006845,496 L227,496 Z" id="el-icon-plus"></path>
+            </g>
+        </g>
+    </g>
+</svg>

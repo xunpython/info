@@ -1,0 +1,181 @@
+
+.bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: -webkit-linear-gradient(#4EBCFF, #007EFF);
+    /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#4EBCFF, #007EFF);
+    /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#4EBCFF, #007EFF);
+    /* Firefox 3.6 - 15 */
+    background: linear-gradient(#4EBCFF, #007EFF);
+    /* 标准的语法 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .bgImg{
+    width: 100%;
+    height: 90%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(../img/bg.png);
+  }
+  
+  .Box {
+    width: 520px;
+    height: 360px;
+    background: #fff;
+    border-radius: 8px;
+    margin: auto;
+    box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.5);
+    display: flex;
+  }
+  
+  .leftBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 40px;
+  }
+  
+  .leftBox p {
+    font-size: 12px;
+    color: rgb(74, 74, 74);
+    line-height: 16px;
+    margin-top: 20px;
+  }
+  
+  
+  .rightBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 40px;
+  }
+  
+  .companyName {
+    margin-top: 55px;
+    margin-bottom: 40px;
+  }
+  
+  .companyName span {
+    color: rgb(74, 74, 74);
+    font-size: 20px;
+    line-height: 26px;
+  }
+  
+  .inputStyle {
+    width: 200px;
+    height: 36px;
+    border-radius: 22px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    outline: none
+  }
+  
+  .inputStyle:focus {
+    border: 1px solid #0092FF;
+    border-radius: 22px;
+  }
+  
+  ::input-placeholder {
+    color: #ccc;
+    font-size: 12px;
+    /*line-height: 44px;*/
+  }
+  
+  .btnStyle {
+    width: 220px;
+    height: 40px;
+    border-radius: 20px;
+    background: #0092ff;
+    border: 0;
+    box-shadow: 4px 4px 8px rgba(69, 140, 255, 0.5);
+    margin-top: 20px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 40px;
+    text-align: center;
+    outline: none
+  }
+  
+  .rememberUsername {
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .rememberUsername p {
+    color: rgb(74, 74, 74);
+    font-size: 10px;
+    line-height: 10px;
+    margin: 0;
+    margin-top: 2px;
+  }
+  
+  .selectBtn {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border: 1px solid #0092ff;
+    border-radius: 8px;
+    margin-right: 5px;
+  }
+  .select{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: #0092ff;
+    border-radius: 5px;
+    margin-bottom: 3px;
+    margin-left: 2px;
+  }
+  
+  .companyCopyright {
+    position: fixed;
+    bottom: 40px;
+    font-size: 12px;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+  }
+  
+  .setting {
+    z-index: 10;
+    float: right;
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    border: 1px solid #fff;
+    width: 100px;
+    height: 30px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .setting span {
+    color: #fff;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  
+  .setting img {
+    margin-right: 5px;
+  }
+  
+  .returnBtn {
+    z-index: 10;
+    left: 40px;
+    top:344px;
+    position: fixed;
+  }
+  

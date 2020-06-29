@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="276px" height="35px" viewBox="0 0 276 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>公司信息</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="试验计划-委托单" transform="translate(-40.000000, -24.000000)">
+            <g id="公司信息" transform="translate(40.000000, 20.000000)">
+                <g id="LOGO" transform="translate(0.000000, 5.000000)">
+                    <path d="M12.9736115,12.2727273 L20.3327582,12.2727273 L19.3585439,16.3636364 L11.8717072,16.3636364 L8.19869281,30 L0,30 L7.92104716,0 L23.940183,0 L22.9563399,4.43181818 L15.0855948,4.43181818 L12.9736115,12.2727273 Z" id="Combined-Shape" fill="#00A390"></path>
+                    <path d="M26.1150784,29.7003729 C33.6562745,29.3890936 41.0267712,25.2272727 41.1769739,14.8295455 C41.3271765,4.43181818 33.6562745,0 28.1184739,0 L24.5960784,0 L23.6122353,4.43181818 L26.8917124,4.43181818 C27.6657843,4.43181818 32.2115752,3.73984597 35.5858497,8.50874467 C38.8503039,13.1224332 36.1839379,19.1068892 36.1839379,19.1068892 C36.1839379,19.1068892 35.4888877,16.5101081 33.6562745,14.6287953 C31.8236613,12.7474824 30.0494902,12.2727273 29.0429085,12.2727273 L20.9886536,12.2727273 L20.0048105,16.3636364 L28.6361765,16.3636364 C29.4217778,16.3636364 32.4889216,17.6924827 32.3012484,21.5332031 C32.2586674,22.4046196 32.1028464,24.9988903 26.9112484,27.0496715 C21.7196503,29.1004528 8.52664052,30 8.52664052,30 C8.52664052,30 25.4329467,29.7285293 26.1150784,29.7003729 Z" id="Oval" fill="#004C92"></path>
+                </g>
+                <g id="Group-5" transform="translate(55.000000, 0.000000)" fill="#333333">
+                    <text id="东风设计研究院有限公司" font-family="PingFangSC-Medium, PingFang SC" font-size="20" font-weight="400">
+                        <tspan x="0" y="21">东风设计研究院有限公司</tspan>
+                    </text>
+                    <text id="Dongfeng-Design-Inst" opacity="0.515455163" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="0.699999988">
+                        <tspan x="0" y="36">Dongfeng Design Institute Co., LT</tspan>
+                        <tspan x="212.82" y="36">D</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

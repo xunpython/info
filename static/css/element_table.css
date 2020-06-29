@@ -1,0 +1,8 @@
+.el-table th {
+    background:#F5F7FA!important
+}
+
+.has-gutter  .gutter{
+	/*display*/
+	display: flex!important
+}

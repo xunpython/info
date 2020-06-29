@@ -1,0 +1,5 @@
+
+.fc-view, .fc-view > table {
+    visibility: hidden!important
+    /*z-index: 1*/
+}
